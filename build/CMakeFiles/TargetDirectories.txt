@@ -1,8 +1,0 @@
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/CMakeFiles/edit_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/CMakeFiles/rebuild_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_lib/CMakeFiles/say_hello.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_lib/CMakeFiles/edit_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_lib/CMakeFiles/rebuild_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_exe/CMakeFiles/Subdirectories.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_exe/CMakeFiles/edit_cache.dir
-C:/msys64/home/CMakeTutorials/CMakeGood/Subdirectories/build/subdir_exe/CMakeFiles/rebuild_cache.dir
